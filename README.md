@@ -8,4 +8,5 @@ We bouwen de repo op om arduino projecten en documentatie bij te houden
 
 ## Contributors
 - Rune Vanhoucke
-- Djurre Roose
+- Roose Djurre
+- Rune Vanhoucke

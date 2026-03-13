@@ -14,3 +14,6 @@ In dit bestand kun je meer info vinden over hoe alles te verbinden.
 ## Beperkingen
 - dit
 - dat
+
+
+![Arduino foto](../imgs/wiring.jpg)
